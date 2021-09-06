@@ -1,0 +1,351 @@
+{
+  "siteFile": {
+    "/favicon.ico": "/home/leway/home/playCode/easy-react-ssr-test/config/config.default.js"
+  },
+  "logger": {
+    "consoleLevel": "/home/leway/home/playCode/easy-react-ssr-test/config/config.default.js",
+    "dir": "/home/leway/home/playCode/easy-react-ssr-test/config/config.default.js",
+    "encoding": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js",
+    "env": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js",
+    "level": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js",
+    "disableConsoleAfterReady": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js",
+    "outputJSON": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js",
+    "buffer": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js",
+    "appLogName": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js",
+    "coreLogName": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js",
+    "agentLogName": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js",
+    "errorLogName": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js",
+    "coreLogger": {
+      "consoleLevel": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.local.js"
+    },
+    "allowDebugAtProd": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js"
+  },
+  "static": {
+    "prefix": "/home/leway/home/playCode/easy-react-ssr-test/config/config.default.js",
+    "dir": "/home/leway/home/playCode/easy-react-ssr-test/config/config.default.js",
+    "maxAge": "/home/leway/home/playCode/easy-react-ssr-test/config/config.local.js",
+    "dynamic": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-static/config/config.default.js",
+    "preload": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-static/config/config.default.js",
+    "buffer": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-static/config/config.default.js",
+    "maxFiles": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-static/config/config.default.js"
+  },
+  "keys": "/home/leway/home/playCode/easy-react-ssr-test/config/config.default.js",
+  "middleware": "/home/leway/home/playCode/easy-react-ssr-test/config/config.default.js",
+  "reactssr": {
+    "layout": "/home/leway/home/playCode/easy-react-ssr-test/config/config.default.js",
+    "injectCss": "/home/leway/home/playCode/easy-react-ssr-test/config/config.local.js",
+    "doctype": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-view-react-ssr/config/config.default.js",
+    "manifest": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-view-react-ssr/config/config.default.js",
+    "injectHeadRegex": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-view-react-ssr/config/config.default.js",
+    "injectBodyRegex": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-view-react-ssr/config/config.default.js",
+    "injectJs": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-view-react-ssr/config/config.default.js",
+    "crossorigin": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-view-react-ssr/config/config.default.js",
+    "injectRes": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-view-react-ssr/config/config.default.js",
+    "mergeLocals": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-view-react-ssr/config/config.default.js",
+    "fallbackToClient": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-view-react-ssr/config/config.default.js",
+    "afterRender": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-view-react-ssr/config/config.default.js"
+  },
+  "development": {
+    "watchDirs": "/home/leway/home/playCode/easy-react-ssr-test/config/config.local.js",
+    "ignoreDirs": "/home/leway/home/playCode/easy-react-ssr-test/config/config.local.js",
+    "fastReady": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-development/config/config.default.js",
+    "reloadOnDebug": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-development/config/config.default.js",
+    "overrideDefault": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-development/config/config.default.js",
+    "overrideIgnore": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-development/config/config.default.js"
+  },
+  "webpack": {
+    "webpackConfigList": "/home/leway/home/playCode/easy-react-ssr-test/config/config.local.js",
+    "port": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-webpack/config/config.default.js",
+    "proxy": {
+      "host": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-webpack/config/config.default.js",
+      "match": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-webpack/config/config.default.js"
+    }
+  },
+  "security": {
+    "domainWhiteList": "/home/leway/home/playCode/easy-react-ssr-test/config/config.local.js",
+    "protocolWhiteList": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-security/config/config.default.js",
+    "csrf": {
+      "enable": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-security/config/config.default.js",
+      "type": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-security/config/config.default.js",
+      "ignoreJSON": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-security/config/config.default.js",
+      "useSession": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-security/config/config.default.js",
+      "cookieName": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-security/config/config.default.js",
+      "sessionName": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-security/config/config.default.js",
+      "headerName": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-security/config/config.default.js",
+      "bodyName": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-security/config/config.default.js",
+      "queryName": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-security/config/config.default.js",
+      "refererWhiteList": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-security/config/config.default.js"
+    },
+    "xframe": {
+      "enable": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-security/config/config.default.js",
+      "value": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-security/config/config.default.js"
+    },
+    "hsts": {
+      "enable": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-security/config/config.local.js",
+      "maxAge": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-security/config/config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-security/config/config.default.js",
+      "value": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-security/config/config.default.js",
+      "value": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-security/config/config.default.js",
+      "policy": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-security/config/config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-security/config/config.default.js",
+      "ipExceptionList": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-security/config/config.default.js",
+      "checkAddress": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-security/config/config.default.js"
+    }
+  },
+  "session": {
+    "maxAge": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-session/config/config.default.js",
+    "key": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-session/config/config.default.js",
+    "logValue": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-session/config/config.default.js"
+  },
+  "helper": {
+    "shtml": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-security/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-jsonp/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-onerror/config/config.default.js",
+    "templatePath": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-onerror/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-i18n/config/config.default.js",
+    "cookieDomain": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-i18n/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-watcher/config/config.local.js",
+    "eventSources": {
+      "default": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-watcher/config/config.default.js",
+      "development": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-watcher/config/config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-schedule/config/config.default.js",
+      "file": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-schedule/config/config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-schedule/config/config.default.js"
+  },
+  "multipart": {
+    "mode": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-multipart/config/config.default.js",
+    "autoFields": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-multipart/config/config.default.js",
+    "fileSize": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-multipart/config/config.default.js",
+    "files": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-multipart/config/config.default.js",
+    "whitelist": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-multipart/config/config.default.js",
+    "allowArrayField": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-multipart/config/config.default.js",
+    "tmpdir": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-multipart/config/config.default.js",
+    "cleanSchedule": {
+      "cron": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-multipart/config/config.default.js",
+      "disable": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-multipart/config/config.default.js"
+    }
+  },
+  "logrotator": {
+    "filesRotateByHour": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-logrotator/config/config.default.js"
+  },
+  "view": {
+    "root": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-view/config/config.default.js",
+    "cache": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-view/config/config.local.js",
+    "defaultExtension": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-view/config/config.default.js",
+    "defaultViewEngine": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-view/config/config.default.js",
+    "mapping": {
+      ".js": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-view-react-ssr/config/config.default.js",
+      ".jsx": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-view-react-ssr/config/config.default.js"
+    }
+  },
+  "cors": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-cors/config/config.default.js",
+  "webpackreact": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-webpack-react/config/config.default.js",
+  "env": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js",
+  "name": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js",
+  "cookies": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js",
+  "proxy": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js",
+  "maxIpsCount": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js",
+  "maxProxyCount": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js",
+  "pkg": {
+    "name": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js",
+    "version": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js",
+    "description": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js",
+    "scripts": {
+      "clean": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js",
+      "build": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js",
+      "debug": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js",
+      "dev": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js",
+      "start": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js",
+      "lint": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js",
+      "fix": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js",
+      "ii": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js",
+      "changelog": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js"
+    },
+    "dependencies": {
+      "antd": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js",
+      "egg": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js",
+      "egg-cors": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js",
+      "egg-logger": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js",
+      "egg-scripts": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js",
+      "egg-validate": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js",
+      "egg-view-react-ssr": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js",
+      "extend": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js",
+      "history": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js",
+      "lodash": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js",
+      "mockjs": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js",
+      "moment": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js",
+      "querystring": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js",
+      "react": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js",
+      "react-dom": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js",
+      "react-redux": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js",
+      "react-router": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js",
+      "react-router-config": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js",
+      "react-router-dom": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js",
+      "react-router-redux": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js",
+      "redux": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js"
+    },
+    "devDependencies": {
+      "babel-plugin-transform-class-properties": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js",
+      "conventional-changelog-cli": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js",
+      "easywebpack-cli": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js",
+      "easywebpack-react": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js",
+      "egg-bin": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js",
+      "egg-webpack": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js",
+      "egg-webpack-react": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js",
+      "eslint-config-egg": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js",
+      "eslint-plugin-react": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js",
+      "ip": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js",
+      "less": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js",
+      "less-loader": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js"
+    },
+    "engines": {
+      "node": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js"
+    },
+    "ci": {
+      "version": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js"
+    },
+    "repository": {
+      "type": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js",
+      "url": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js"
+    },
+    "author": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js",
+    "license": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js",
+    "homepage": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js",
+    "webpack": {
+      "loaders": {
+        "less": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js"
+      }
+    }
+  },
+  "baseDir": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js",
+  "HOME": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js",
+  "rundir": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js",
+  "dump": {
+    "ignore": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js",
+    "notFound": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js",
+    "sitefile": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js",
+    "middlewares": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js",
+    "httpClient": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js",
+    "encoding": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js",
+    "formLimit": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js",
+    "jsonLimit": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js",
+    "textLimit": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js",
+    "strict": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js",
+      "depth": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js"
+    },
+    "onerror": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js",
+    "dnsCacheLookupInterval": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js",
+    "request": {
+      "timeout": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js",
+      "maxSockets": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js",
+      "maxSockets": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js",
+    "logging": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js"
+  },
+  "coreMiddleware": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js",
+  "serverTimeout": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js",
+      "port": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js",
+      "hostname": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js",
+    "responseTimeout": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js"
+  },
+  "onClientError": "/home/leway/home/playCode/easy-react-ssr-test/node_modules/egg/config/config.default.js"
+}

@@ -1,0 +1,27 @@
+2021-09-06 11:08:54,947 INFO 10799 [egg:logger] init all loggers with options: {"dir":"/home/leway/home/playCode/easy-react-ssr-test/logs","encoding":"utf8","env":"prod","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":true,"outputJSON":false,"buffer":true,"appLogName":"easy-react-ssr-test-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{},"allowDebugAtProd":false,"type":"agent"}
+2021-09-06 11:08:54,951 INFO 10799 [egg:core] dump config after load, 2ms
+2021-09-06 11:08:54,972 INFO 10799 [egg-watcher:agent] watcher start success
+2021-09-06 11:08:54,972 WARN 10799 [egg-watcher] defaultEventSource watcher will NOT take effect
+2021-09-06 11:08:54,978 INFO 10799 [egg:core] dump config after ready, 5ms
+2021-09-06 11:11:19,107 INFO 11239 [egg:logger] init all loggers with options: {"dir":"/home/leway/home/playCode/easy-react-ssr-test/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"easy-react-ssr-test-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2021-09-06 11:11:19,112 INFO 11239 [egg:core] dump config after load, 2ms
+2021-09-06 11:11:19,138 INFO 11239 [egg-watcher] Start watching: ["/home/leway/home/playCode/easy-react-ssr-test/app","/home/leway/home/playCode/easy-react-ssr-test/config","/home/leway/home/playCode/easy-react-ssr-test/mocks","/home/leway/home/playCode/easy-react-ssr-test/mocks_proxy","/home/leway/home/playCode/easy-react-ssr-test/app.js","/home/leway/home/playCode/easy-react-ssr-test/build"]
+2021-09-06 11:11:19,138 INFO 11239 [egg-watcher] Start watching: "/home/leway/home/playCode/easy-react-ssr-test/app"
+2021-09-06 11:11:19,138 INFO 11239 [egg-watcher] Start watching: "/home/leway/home/playCode/easy-react-ssr-test/config"
+2021-09-06 11:11:19,138 INFO 11239 [egg-watcher] Start watching: "/home/leway/home/playCode/easy-react-ssr-test/mocks"
+2021-09-06 11:11:19,138 INFO 11239 [egg-watcher] Start watching: "/home/leway/home/playCode/easy-react-ssr-test/mocks_proxy"
+2021-09-06 11:11:19,138 INFO 11239 [egg-watcher] Start watching: "/home/leway/home/playCode/easy-react-ssr-test/app.js"
+2021-09-06 11:11:19,138 INFO 11239 [egg-watcher] Start watching: "/home/leway/home/playCode/easy-react-ssr-test/build"
+2021-09-06 11:11:19,139 INFO 11239 [egg-watcher:agent] watcher start success
+2021-09-06 11:11:19,164 INFO 11239 [egg:core] dump config after ready, 5ms
+2021-09-06 11:11:19,164 INFO 11239 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"/home/leway/home/playCode/easy-react-ssr-test/config/manifest.json","remove":true,"isDirectory":false,"isFile":false}
+2021-09-06 11:11:23,342 INFO 11239 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"/home/leway/home/playCode/easy-react-ssr-test/config/manifest.json","stat":{"dev":2064,"mode":33188,"nlink":1,"uid":1000,"gid":1000,"rdev":0,"blksize":4096,"ino":2682746,"size":783,"blocks":8,"atimeMs":1630897883230,"mtimeMs":1630897883230,"ctimeMs":1630897883230,"birthtimeMs":1630897883230,"atime":"2021-09-06T03:11:23.230Z","mtime":"2021-09-06T03:11:23.230Z","ctime":"2021-09-06T03:11:23.230Z","birthtime":"2021-09-06T03:11:23.230Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-09-06 11:11:23,343 INFO 11239 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/home/leway/home/playCode/easy-react-ssr-test/config/manifest.json","stat":{"dev":2064,"mode":33188,"nlink":1,"uid":1000,"gid":1000,"rdev":0,"blksize":4096,"ino":2682746,"size":783,"blocks":8,"atimeMs":1630897883230,"mtimeMs":1630897883230,"ctimeMs":1630897883230,"birthtimeMs":1630897883230,"atime":"2021-09-06T03:11:23.230Z","mtime":"2021-09-06T03:11:23.230Z","ctime":"2021-09-06T03:11:23.230Z","birthtime":"2021-09-06T03:11:23.230Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-09-06 13:35:06,774 ERROR 11239 nodejs.ClusterClientNoResponseError: client no response in 5406475ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/home/leway/home/playCode/easy-react-ssr-test/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+name: "ClusterClientNoResponseError"
+pid: 11239
+hostname: P15V
+

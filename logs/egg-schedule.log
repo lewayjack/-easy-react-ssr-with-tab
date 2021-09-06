@@ -1,0 +1,27 @@
+2021-09-06 11:08:55,630 INFO 10799 [Timer] /home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 62464372ms at 2021-09-07 04:30:00.002
+2021-09-06 11:08:55,630 INFO 10799 [Timer] /home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 46264370ms at 2021-09-07 00:00:00.000
+2021-09-06 11:08:55,630 INFO 10799 [Timer] /home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 46265370ms at 2021-09-07 00:00:01.000
+2021-09-06 11:08:55,462 INFO 10824 [egg-schedule]: register schedule /home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-06 11:08:55,462 INFO 10824 [egg-schedule]: register schedule /home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-06 11:08:55,462 INFO 10824 [egg-schedule]: register schedule /home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-06 11:08:55,475 INFO 10810 [egg-schedule]: register schedule /home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-06 11:08:55,475 INFO 10810 [egg-schedule]: register schedule /home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-06 11:08:55,475 INFO 10810 [egg-schedule]: register schedule /home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-06 11:08:55,478 INFO 10831 [egg-schedule]: register schedule /home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-06 11:08:55,478 INFO 10831 [egg-schedule]: register schedule /home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-06 11:08:55,478 INFO 10831 [egg-schedule]: register schedule /home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-06 11:08:55,487 INFO 10816 [egg-schedule]: register schedule /home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-06 11:08:55,487 INFO 10816 [egg-schedule]: register schedule /home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-06 11:08:55,487 INFO 10816 [egg-schedule]: register schedule /home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-06 11:08:55,488 INFO 10817 [egg-schedule]: register schedule /home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-06 11:08:55,488 INFO 10817 [egg-schedule]: register schedule /home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-06 11:08:55,488 INFO 10817 [egg-schedule]: register schedule /home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-06 11:08:55,508 INFO 10837 [egg-schedule]: register schedule /home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-06 11:08:55,508 INFO 10837 [egg-schedule]: register schedule /home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-06 11:08:55,508 INFO 10837 [egg-schedule]: register schedule /home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-06 11:11:20,120 INFO 11277 [egg-schedule]: register schedule /home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-09-06 11:11:20,120 INFO 11277 [egg-schedule]: register schedule /home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-09-06 11:11:20,120 INFO 11277 [egg-schedule]: register schedule /home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-09-06 11:11:20,199 INFO 11239 [Timer] /home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 62319803ms at 2021-09-07 04:30:00.002
+2021-09-06 11:11:20,199 INFO 11239 [Timer] /home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 46119801ms at 2021-09-07 00:00:00.000
+2021-09-06 11:11:20,199 INFO 11239 [Timer] /home/leway/home/playCode/easy-react-ssr-test/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 46120801ms at 2021-09-07 00:00:01.000
